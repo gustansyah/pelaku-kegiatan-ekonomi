@@ -24,7 +24,14 @@ Website ini dikembangkan dengan pendekatan pembelajaran modern yang menggabungka
 
 ## 🚀 Demo
 
-Website ini dapat diakses secara langsung melalui GitHub Pages: [Link Demo](https://[username].github.io/[repository-name]/)
+Website ini dapat diakses secara langsung melalui GitHub Pages: [Link Demo](https://gustansyah.github.io/pelaku-kegiatan-ekonomi/)
+
+### Cara Mengaktifkan GitHub Pages:
+1. Buka repository: https://github.com/gustansyah/pelaku-kegiatan-ekonomi
+2. Klik tab "Settings"
+3. Pilih "Pages" dari menu samping
+4. Di bagian "Build and deployment", pilih "GitHub Actions" sebagai source
+5. Website akan otomatis tersedia dalam beberapa menit
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -49,14 +56,13 @@ haifaaproject/
 ## 🌐 Cara Mengakses
 
 ### Melalui GitHub Pages (Direkomendasikan)
-1. Kunjungi repository GitHub ini
-2. Klik tombol "Pages" di bagian Settings
-3. Website akan otomatis tersedia di link GitHub Pages
+1. Kunjungi repository: https://github.com/gustansyah/pelaku-kegiatan-ekonomi
+2. Website akan otomatis tersedia di: https://gustansyah.github.io/pelaku-kegiatan-ekonomi/
 
 ### Lokal
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/[username]/[repository-name].git
+   git clone https://github.com/gustansyah/pelaku-kegiatan-ekonomi.git
    ```
 2. Buka file `index.html` di browser favorit Anda
 
